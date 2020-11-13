@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [ annotation-api, app-name, gcp-pubsub, gradle, http-client, java, java-application, jib, junit, knative, kubernetes, logback, management, netty-server, reactor, readme, testcontainers, yaml ]
